@@ -1,0 +1,14 @@
+list fruit :
+Avocado
+Banana
+Cherry
+Durian 
+------ +
+Eggplant
+Fuji Apple
+Grape
+------- +
+H
+j
+k
+L
