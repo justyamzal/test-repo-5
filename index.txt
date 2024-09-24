@@ -8,7 +8,11 @@ Eggplant
 Fuji Apple
 Grape
 ------- +
-H
-j
-k
-L
+Honeydew
+Indian gooseberry
+Jackfruit
+Kiwi
+Lemon
+Mango 
+Nuts
+Orange
